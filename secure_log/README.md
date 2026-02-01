@@ -1,4 +1,4 @@
-# Sistema de Registro de Eventos (Log Seguro) Prog_Seg_exercises
+# Sistema de Registro de Eventos (Log Seguro)
 
 ## DESCRIPCIÓN
 
